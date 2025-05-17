@@ -60,9 +60,7 @@ A interface HTML renderizada no Colab inclui:
 * Um título "Agente Severino".
 * A imagem do Robo Marido de Aluguel:
 
-    ```
-    ![Imagem do Projeto](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaXi1jk5XKKgbiZWDrucB7XEIdeh7yb9OfSpdHDHHlzh4UWzet-9P1ITLgf-G2zmQwQTYWEf3kXNHSutda0n2ChkdrfewmW_ZeAt4tzRO8pT0CP6-N-3maMNcGFD9jaDttPttxs5HpNA7_3lYL8kvIONQU9sEyNkxsXo8W49M08qgqW_xG5HL9Zx7-tKq0/s320/severino.png)
-    ```
+![Agente Severino](severino.png)
 
 * Campos de texto para inserir o problema, a cidade e o estado.
 * Um botão "Executar Agentes".
