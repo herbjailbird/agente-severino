@@ -1,6 +1,6 @@
 # Agente Severino: Marido de Aluguel Digital com Inteligência Artificial
 
-![Texto alternativo da imagem](severino.png)
+<div align="center">![Texto alternativo da imagem](severino.png)</div>
 
 Este script Python implementa um sistema de "Marido de Aluguel Digital" com quatro agentes de inteligência artificial, utilizando o framework ADK do Google e o modelo Gemini. Além da lógica dos agentes, esta versão inclui uma interface de usuário básica construída com HTML e JavaScript, renderizada diretamente no Google Colab para uma interação mais visual.
 
