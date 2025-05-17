@@ -63,8 +63,7 @@ A interface HTML renderizada no Colab inclui:
 ![Agente Severino](severino.png)
 
 * Campos de texto para inserir o problema, a cidade e o estado.
-* Um botão "Executar Agentes".
-* Uma área de "Resultados" onde mensagens básicas do JavaScript são exibidas.
+* Um botão "Buscar Solução".
 
 ## Boas Práticas Implementadas
 
